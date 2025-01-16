@@ -3,7 +3,7 @@ Learn Higher Order Array Methods by Building a Library Manager
 
 ## Technologies
 
-Uses Array Methods, such as `filter`, `map` and `reduce`.
+Uses Array Methods, such as `filter()`, `map()` and `reduce()`.
 
 ## Deployment
 
